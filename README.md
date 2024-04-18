@@ -1,7 +1,3 @@
-About: Show how to use Swift Package Manager to integrate [ComPDFKit PDF SDK - Swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift) into iOS applications. 
-
-
-
 # ComPDFKit
 
 [ComPDFKit PDF SDK](https://www.compdf.com/) seamlessly operates on [Web](https://www.compdf.com/web), [Windows](https://www.compdf.com/windows), [Android](https://www.compdf.com/android), [iOS](https://www.compdf.com/ios), [Mac](https://www.compdf.com/contact-sales), and [Server](https://www.compdf.com/server), with support for cross-platform frameworks such as [React Native](https://www.compdf.com/react-native), [Flutter](https://www.compdf.com/flutter), etc.
