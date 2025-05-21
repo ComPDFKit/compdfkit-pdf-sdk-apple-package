@@ -13,8 +13,8 @@ let package = Package(
     targets: [
           .binaryTarget(
               name: "ComPDFKit",
-              url: "https://www.compdf.com/download/ios/cocoapods/xcframeworks/compdfkit/2.2.0/ComPDFKit.xcframework.zip",
-              checksum: "54b008973d93fc018c6a9471b00da8cc61602f21c5cdcb47421a8469b79d418a"),
+              url: "https://www.compdf.com/download/ios/cocoapods/xcframeworks/compdfkit/2.3.0/ComPDFKit.xcframework.zip",
+              checksum: "57cba074a109c746e7bd292b70f17e07018b3613328ced7eec54a05033cc8589"),
       ]
 )
 
